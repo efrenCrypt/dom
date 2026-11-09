@@ -25,3 +25,4 @@ ev.io
 tapshot.io
 grannyhorror.io
 turball.io
+hotgames.io
