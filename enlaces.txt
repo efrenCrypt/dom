@@ -17,7 +17,6 @@ dinosaur-game.io
 firebaseapp.com
 rocketgoal.io
 github.io
-veck.io
 deadshot.io
 topgames.gg
 retakes.io
